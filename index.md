@@ -1,6 +1,6 @@
 ---
 title: "My Education"
-layout: splash
+layout: single
 author_profile: true
 ---
 
