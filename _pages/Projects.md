@@ -1,7 +1,7 @@
 ---
 title: "Projects"
-layout: collection
 permalink: /projects/
-collection:projects
-author_profile: true
 ---
+# Projects
+Here is a collection of my latest projects
+##https://github.com/Mary-Mwongeli/Expo
