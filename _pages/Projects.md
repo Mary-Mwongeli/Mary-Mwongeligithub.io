@@ -4,5 +4,5 @@ permalink: /projects/
 ---
 # Projects
 Here is a collection of my latest projects
-link:
-url: https://github.com/Mary-Mwongeli/Expo
+links:
+- url: https://github.com/Mary-Mwongeli/Expo
